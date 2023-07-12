@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on eact Js and Node js 
+- 🔭 I’m currently working on React Js and Node js 
 - 🌱 I’m currently learning devops
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 Take a look to my Projects https://github.com/tamirudiriba 
